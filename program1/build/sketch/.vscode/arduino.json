@@ -1,8 +1,0 @@
-#line 1 "C:\\Users\\Jeremiah\\Programs\\program1\\.vscode\\arduino.json"
-{
-    "sketch": "program1.ino",
-    "output": "build",
-    "board": "arduino:avr:uno",
-    "port": "COM5",
-    "programmer": "arduinoisp"
-}
